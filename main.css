@@ -1,0 +1,54 @@
+<div>
+  <br>
+    <center>
+       <h1>My Blog Posts</h1>
+    </center>
+  <br>
+</div>
+<div class="blogs">
+  <div class="column">
+    <div class="card">
+       <a href="post1.html">
+          <img src="https://www.indianhealthyrecipes.com/wp-  content/uploads/2019/02/chicken-biryani-recipe-500x500.jpg" alt="image" height="300" width="400"/></a>
+     <h3>Heading</h3>
+     <p>Some text</p>
+  </div>
+ </div>
+<div class="column">
+<div class="card">
+<img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2019/02/chicken-biryani-recipe-500x500.jpg" alt="image" height="300" width="400"/>
+<h3>Heading</h3>
+<p>Some text</p>
+</div>
+</div>
+<div class="column">
+<div class="card">
+<img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2019/02/chicken-biryani-recipe-500x500.jpg" alt="image" height="300" width="400"/>
+<h3>Heading</h3>
+<p>Some text</p>
+</div>
+</div>
+</div>
+<div class="blogs">
+<div class="column">
+<div class="card">
+<img src="" height="300" width="400"/>
+<h3>Heading</h3>
+<p>Some text</p>
+</div>
+</div>
+<div class="column">
+<div class="card">
+<img src="" height="300" width="400"/>
+<h3>Heading</h3>
+<p>Some text</p>
+</div>
+</div>
+<div class="column">
+<div class="card">
+<img src="" height="300" width="400"/>
+<h3>Heading</h3>
+<p>Some text</p>
+</div>
+</div>
+</div>
